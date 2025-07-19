@@ -1,30 +1,24 @@
-## Calculator_JS
+# 🧮 JavaScript Calculator
 
-## Project: Calculator App using HTML, CSS, and JavaScript
+A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. Perform basic arithmetic operations with a clean and user-friendly interface.
 
-### Install
+---
 
-This project requires a modern web browser to run. No installation of external packages or libraries is needed.
+## 🛠️ Technologies Used
 
-You just need the following files:
-- `index.html`
-- `style.css`
-- `script.js`
+- 🌐 HTML5  
+- 🎨 CSS3  
+- 🧠 JavaScript (Vanilla)
 
-These files can be opened directly in any browser (Chrome, Firefox, Edge, etc.).
+---
 
-### Code
+## 🚀 Getting Started
 
-The code is provided in the following files:
+### 📁 Installation
 
-- `index.html`: HTML structure of the calculator.
-- `style.css`: Styling for buttons and layout.
-- `script.js`: Functionality for arithmetic operations and UI handling.
+No installations or dependencies required! Just clone the repo and open the HTML file in your browser.
 
-### Run
+```bash
+git clone https://github.com/your-username/calculator-js.git
+cd calculator-js
 
-To run the project:
-
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/your-username/calculator-js.git
