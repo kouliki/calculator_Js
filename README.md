@@ -8,7 +8,7 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 - 🌐 HTML5  
 - 🎨 CSS3  
-- 🧠 JavaScript (Vanilla)
+- 🧠 JavaScript 
 
 ---
 
