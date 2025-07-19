@@ -12,6 +12,23 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
+### ✨ Features
+➕ Addition
+
+➖ Subtraction
+
+✖️ Multiplication
+
+➗ Division
+
+🔄 AC (All Clear) and DEL (Delete) functionality
+
+🔢 Decimal support
+
+💡 Responsive layout
+
+---
+
 ## 🚀 Getting Started
 
 ### 📁 Installation
